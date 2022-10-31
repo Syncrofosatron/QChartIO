@@ -28,5 +28,5 @@ app.post("/", function(req, res){
 })
 
 app.listen(666, function(){
-    console.log("Listening on port 666...")
+    console.log("Listening on port 666.")
 })
